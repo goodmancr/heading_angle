@@ -17,7 +17,7 @@ In attack-flee studies, there is a prey (mouse) and a predator (spider). 2D vide
 9. A new csv is saved from the updated dataframe for further analysis of the relationship between heading angle and animal behavior.
 
 ## To run your own DeepLabCut files through:
-1. Download the three Python files to your computer.
+1. Download the Python files to your computer.
 2. In the command line, run 'python spider_heading_angles.py'
    - When the first prompt appears, input the file path to the folder that contains the Excel files from your DLC output.
    - The script will load your files, update the heading angles, and output a file titled '{file_name}_angles.csv' (ensures you have your original data and also the angle data)
